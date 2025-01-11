@@ -1,4 +1,8 @@
 Chapter 1
+ ====
+OUTLINE
+====
+
  - We meet to know more!
  - This is just a test!
  - The novel was inspired by a youthful romance Fitzgerald had with socialite Ginevra King.
